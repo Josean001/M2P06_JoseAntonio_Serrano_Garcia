@@ -1,0 +1,12 @@
+.hero {
+    background-image: url(../img/1920x1080.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.feature-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
